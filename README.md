@@ -26,3 +26,6 @@ Projecte FPS 3D plataformer, horror sci-fi
  #LINKS
  //Tuto FPS controller
  https://www.youtube.com/watch?v=i_VFMOTfvmA    
+
+ SFX:
+ https://assetstore.unity.com/packages/audio/sound-fx/sci-fi-user-interface-sfx-182246
