@@ -24,4 +24,5 @@ Projecte FPS 3D plataformer, horror sci-fi
 
 
  #LINKS
- https://www.youtube.com/watch?v=i_VFMOTfvmA
+ //Tuto FPS controller
+ https://www.youtube.com/watch?v=i_VFMOTfvmA    
