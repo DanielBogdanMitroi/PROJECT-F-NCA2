@@ -20,3 +20,8 @@ Projecte FPS 3D plataformer, horror sci-fi
  <MAQUINA ESTATS DE ACABAR JOC>
  <USER INTERFACE CODI I VIS>
  <CODI INTERFACE>
+
+
+
+ #LINKS
+ https://www.youtube.com/watch?v=i_VFMOTfvmA
