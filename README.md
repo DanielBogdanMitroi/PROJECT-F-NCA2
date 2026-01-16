@@ -21,6 +21,9 @@ Projecte FPS 3D plataformer, horror sci-fi
  <USER INTERFACE CODI I VIS>
  <CODI INTERFACE>
 
+// DANI
+    1.0 = Implementació del menu principal basica (no comentat si voleu saber algo pregunteume (pd tampoc se molt be com va))
+    
 
 
  #LINKS
